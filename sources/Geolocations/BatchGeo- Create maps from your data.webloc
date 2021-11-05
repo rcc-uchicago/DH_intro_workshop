@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>http://geoservices.tamu.edu/Services/Geocode/</string>
+	<string>https://batchgeo.com/</string>
 </dict>
 </plist>
